@@ -1,1 +1,1 @@
-include ':app', ':feature-dashboard', ':common'
+include ':app', ':feature-dashboard', ':common', ':feature-profile'
